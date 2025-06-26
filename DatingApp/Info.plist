@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>proximanova_black.otf</string>
+		<string>proximanova_blackit.otf</string>
+		<string>proximanova_bold.otf</string>
+		<string>proximanova_boldit.otf</string>
+		<string>proximanova_extrabold.otf</string>
+		<string>proximanova_light.otf</string>
+		<string>proximanova_regular.ttf</string>
+		<string>proximanova_regularit.otf</string>
+		<string>proximanova_semibold.otf</string>
+		<string>proximanova_semiboldit.otf</string>
+	</array>
+</dict>
+</plist>
